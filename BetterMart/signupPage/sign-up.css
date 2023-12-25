@@ -7,7 +7,6 @@
 #zappos-logo {
   display: block;
   margin: auto;
-  width: 100px;
   height: 100px;
   margin-top: 15px;
   cursor: pointer;
@@ -86,7 +85,7 @@ form > input {
   border: 1px solid transparent;
   border-radius: 4px;
   color: white;
-  background-color: #003953;
+  background-color: #000;
   margin-top: 10px;
   cursor: pointer;
   z-index: 20;
